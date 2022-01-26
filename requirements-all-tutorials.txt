@@ -1,0 +1,8 @@
+av
+jupyter
+numpy
+matplotlib
+pandas
+Pillow
+scipy
+seaborn

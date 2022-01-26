@@ -4,4 +4,10 @@ A series of Jupyter notebooks that demonstrate how to visualize and analyze [Pup
 
 These tutorials assume that you already have a working understanding of Pupil hardware and software, and are looking to perform deeper analysis with a few lines of code.  
 
-For an introduction to Pupil and detailed descriptoin of data formats please refer to [Pupil docs](https://docs.pupil-labs.com).  
+For an introduction to Pupil and detailed descriptoin of data formats please refer to [Pupil docs](https://docs.pupil-labs.com).
+
+To install all required dependencies, run
+```
+pip install -r requirements-all-tutorials.txt
+```
+in your Python environment.
